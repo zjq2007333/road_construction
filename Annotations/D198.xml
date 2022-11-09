@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>D198.jpg</filename>
+	<path>E:\construction_datasets_1\JPEGImages\D198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1068</xmin>
+			<ymin>100</ymin>
+			<xmax>1647</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

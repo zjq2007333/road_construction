@@ -1,0 +1,50 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI (255).jpg</filename>
+	<path>D:\UAV\JPEGImages\DJI (255).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2234</width>
+		<height>1206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>588</ymin>
+			<xmax>699</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>574</ymin>
+			<xmax>620</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>545</ymin>
+			<xmax>580</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

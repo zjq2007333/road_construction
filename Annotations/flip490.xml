@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>flip490.jpg</filename>
+	<path>E:\make_dataset_yolo\photo\flip490.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>649</width>
+		<height>477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>63</ymin>
+			<xmax>577</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

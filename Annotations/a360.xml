@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>a360.jpg</filename>
+	<path>E:\construction_datasets_2\JPEGImages\a360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1334</width>
+		<height>1001</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>164</ymin>
+			<xmax>1256</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>

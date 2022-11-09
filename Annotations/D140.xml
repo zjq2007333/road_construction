@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>D140.jpg</filename>
+	<path>E:\construction_datasets_1\JPEGImages\D140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>313</ymin>
+			<xmax>1336</xmax>
+			<ymax>1713</ymax>
+		</bndbox>
+	</object>
+</annotation>

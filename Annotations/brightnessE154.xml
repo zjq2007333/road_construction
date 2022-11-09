@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>brightnessE154.jpg</filename>
+	<path>E:\make_dataset_yolo\photo\brightnessE154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>131</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>54</ymin>
+			<xmax>123</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

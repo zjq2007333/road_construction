@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>D286.jpg</filename>
+	<path>E:\construction_datasets_1\JPEGImages\D286.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>297</ymin>
+			<xmax>1053</xmax>
+			<ymax>1524</ymax>
+		</bndbox>
+	</object>
+</annotation>

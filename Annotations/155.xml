@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>155.jpeg</filename>
+	<path>E:\make_dataset_yolo\photo\155.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>38</ymin>
+			<xmax>305</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

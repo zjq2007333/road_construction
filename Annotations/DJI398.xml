@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI (398).jpg</filename>
+	<path>D:\UAV\JPEGImages\DJI (398).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>2510</ymin>
+			<xmax>971</xmax>
+			<ymax>2634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2848</xmin>
+			<ymin>1337</ymin>
+			<xmax>3598</xmax>
+			<ymax>3519</ymax>
+		</bndbox>
+	</object>
+</annotation>

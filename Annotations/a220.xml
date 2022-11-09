@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>a220.jpeg</filename>
+	<path>E:\construction_datasets\1\JPEGImages\a220.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5942</width>
+		<height>4468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1396</xmin>
+			<ymin>89</ymin>
+			<xmax>4326</xmax>
+			<ymax>4299</ymax>
+		</bndbox>
+	</object>
+</annotation>

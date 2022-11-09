@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>brightnessE298.jpg</filename>
+	<path>E:\make_dataset_yolo\photo\brightnessE298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>21</ymin>
+			<xmax>416</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

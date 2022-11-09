@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>D149.jpg</filename>
+	<path>E:\construction_datasets_1\JPEGImages\D149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>904</width>
+		<height>904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>185</ymin>
+			<xmax>668</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

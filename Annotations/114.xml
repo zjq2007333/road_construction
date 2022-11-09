@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>114.gif</filename>
+	<path>E:\make_dataset_yolo\photo\114.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>128</ymin>
+			<xmax>388</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

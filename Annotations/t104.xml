@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>t104.jpg</filename>
+	<path>F:\construction_datasets\JPEGImages\t104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>914</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>139</ymin>
+			<xmax>757</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

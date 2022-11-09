@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>cesun543.jpg</filename>
+	<path>E:\make_dataset_yolo\photo\cesun543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1212</width>
+		<height>1116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>133</ymin>
+			<xmax>1095</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

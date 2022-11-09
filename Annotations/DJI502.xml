@@ -1,0 +1,50 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI (502).JPG</filename>
+	<path>D:\UAV\JPEGImages\DJI (502).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2271</xmin>
+			<ymin>1225</ymin>
+			<xmax>2409</xmax>
+			<ymax>1416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1953</xmin>
+			<ymin>1160</ymin>
+			<xmax>2133</xmax>
+			<ymax>1345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>334</ymin>
+			<xmax>1974</xmax>
+			<ymax>2466</ymax>
+		</bndbox>
+	</object>
+</annotation>

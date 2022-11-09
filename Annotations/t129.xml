@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>t129.jpg</filename>
+	<path>F:\construction_datasets\JPEGImages\t129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1682</width>
+		<height>1056</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>75</ymin>
+			<xmax>1564</xmax>
+			<ymax>1056</ymax>
+		</bndbox>
+	</object>
+</annotation>

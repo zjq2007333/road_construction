@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>D99.jpg</filename>
+	<path>E:\construction_datasets_1\JPEGImages\D99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>813</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>62</ymin>
+			<xmax>492</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

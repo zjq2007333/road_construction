@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI (397).jpg</filename>
+	<path>D:\UAV\JPEGImages\DJI (397).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2290</width>
+		<height>1098</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymin>523</ymin>
+			<xmax>1334</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

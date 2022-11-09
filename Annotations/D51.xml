@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>D51.jpg</filename>
+	<path>E:\construction_datasets_1\JPEGImages\D51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3014</width>
+		<height>1902</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1452</xmin>
+			<ymin>194</ymin>
+			<xmax>2259</xmax>
+			<ymax>1744</ymax>
+		</bndbox>
+	</object>
+</annotation>
